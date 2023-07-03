@@ -1,5 +1,6 @@
-# Projects
-Self Projects
+# Exploratory-data-analytics-on-terrorism-datasets
+
+Self Project
 
 
 
